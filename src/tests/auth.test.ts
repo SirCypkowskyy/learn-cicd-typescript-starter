@@ -28,4 +28,3 @@ describe("getAPIKey", () => {
     expect(getAPIKey(headers)).toBeNull();
   });
 });
-
